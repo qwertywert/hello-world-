@@ -1,2 +1,2 @@
-hello World
-Батек инета здесь, нуу, будущий, крч я готов отиметь это место!)
+#HELLO WORLD
+I ready learning new skill 
